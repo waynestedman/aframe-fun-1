@@ -8,8 +8,13 @@
   },
   "keywords": [
     "aframe",
+    "VR",
     "3d"
   ],
   "author": "Wayne Stedman",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "aframe": "^1.2.0",
+    "live-server": "^1.2.1"
+  }
 }
